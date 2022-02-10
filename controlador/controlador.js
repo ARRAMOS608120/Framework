@@ -180,7 +180,6 @@ module.exports = {
     errorLogin,
     logout,
     inicio,
-    //GraphQLController
     cargarProducto,
     listarProductos: listarProductosApi
 }
